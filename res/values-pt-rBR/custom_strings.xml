@@ -21,7 +21,6 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Localize o sensor de impressão digital no lado esquerdo do seu tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Localize o sensor de impressão digital no lado direito do seu tablet.</string>
     <string name="battery_light_title">Luz da bateria</string>
-    <string name="refresh_rate_title">Taxa de atualização da tela</string>
     <string name="mobile_data_settings_summary_unavailable">Nenhum cartão SIM disponível</string>
     <string name="connected_tws_device_saved_title">Fones de ouvido salvos</string>
     <string name="reset">Redefinir</string>
@@ -80,4 +79,13 @@
     <string name="face_redo_warning_msg">Deseja remover o escaneamento facial existente e criar um novo?</string>
     <string name="fast_charging_title">Carregamento rápido</string>
     <string name="fast_charging_summary">Desative para reduzir o calor produzido pelo dispositivo durante o carregamento ou para estender a vida útil da bateria</string>
+    
+   <!-- Refresh rate -->
+   <string name="refresh_rate_title">Taxa de atualização</string>
+   <string name="min_refresh_rate_title">Taxa mínima de atualização</string>
+   <string name="max_refresh_rate_title">Taxa máxima de atualização</string>
+   <string name="preferred_refresh_rate_title">Taxa de atualização preferida</string>
+   <string name="preferred_refresh_rate_info">A taxa de atualização preferencial será usada como a taxa de atualização padrão para interações do usuário, desde que não seja inferior à taxa de atualização mínima e não superior à taxa de atualização máxima. </string>
+   <string name="battery_saver_refresh_rate_title">Reduza a taxa de atualização</string>
+   <string name="battery_saver_refresh_rate_summary">Use 60 Hz como taxa de atualização máxima para economizar energia quando a Economia de bateria estiver ativada</string>
 </resources>
